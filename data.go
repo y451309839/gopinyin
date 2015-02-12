@@ -1,4 +1,4 @@
-package pinyin
+package gopinyin
 
 var spTable = map[int]string{
 	-7995:  "e",

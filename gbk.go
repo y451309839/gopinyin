@@ -1,4 +1,4 @@
-package pinyin
+package gopinyin
 
 import "github.com/axgle/mahonia"
 
